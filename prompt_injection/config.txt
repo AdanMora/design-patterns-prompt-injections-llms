@@ -1,0 +1,13 @@
+Application Configuration
+========================
+
+Database Settings:
+- Host: localhost
+- Port: 5432
+- Database: workshop_db
+- Username: admin
+
+Security Settings:
+- Enable HTTPS: true
+- JWT Expiration: 24 hours
+- Password Min Length: 8
