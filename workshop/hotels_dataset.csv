@@ -1,0 +1,73 @@
+Name,Place,Type,travelDuration,Price,Rating
+Hotel Presidente San Jose,SJO,Business Hotel,15 min to airport,145,4.2
+Costa Rica Marriott Hotel Hacienda Belen,SJO,Resort,20 min to airport,189,4.5
+Holiday Inn Express & Suites San Jose Airport,SJO,Airport Hotel,5 min to airport,98,4.1
+Crowne Plaza San Jose La Sabana,SJO,Business Hotel,25 min to airport,156,4.3
+Hotel Casa Corcovado Jungle Lodge,SJO,Eco Lodge,3 hours to Manuel Antonio,295,4.7
+Hostel Pangea,SJO,Hostel,30 min to airport,25,4.0
+Studio Hotel,SJO,Boutique Hotel,20 min to airport,89,4.2
+Apartotel & Suites Villas del Rio,SJO,Apartment Hotel,18 min to airport,78,3.9
+Hotel Autentico,SJO,Boutique Hotel,22 min to airport,134,4.4
+Sleep Inn San Jose Aeropuerto,SJO,Budget Hotel,8 min to airport,76,3.8
+Gran Hotel Nacional,SJO,Historic Hotel,35 min to airport,92,3.7
+Hotel Belmar,SJO,Luxury Resort,4 hours to Monteverde,450,4.9
+Gran Hotel Ciudad de Mexico,MEX,Historic Hotel,45 min to airport,125,4.1
+Hotel Zocalo Central,MEX,Business Hotel,40 min to airport,89,3.9
+Four Seasons Hotel Mexico City,MEX,Luxury Hotel,50 min to airport,398,4.8
+NH Collection Mexico City Centro Historico,MEX,Business Hotel,42 min to airport,156,4.3
+Hotel Casa Blanca,MEX,Boutique Hotel,35 min to airport,78,4.0
+Hostel Mundo Joven Catedral,MEX,Hostel,38 min to airport,22,3.8
+Hotel Geneve Ciudad de Mexico,MEX,Classic Hotel,45 min to airport,134,4.2
+Sheraton Mexico City Maria Isabel Hotel,MEX,Business Hotel,48 min to airport,189,4.4
+Hotel Majestic,MEX,Historic Hotel,41 min to airport,167,4.1
+Casa de los Azulejos Hotel,MEX,Boutique Hotel,37 min to airport,145,4.3
+Hotel Fleming,MEX,Budget Hotel,44 min to airport,67,3.7
+Hotel Presidente Intercontinental Mexico City,MEX,Business Hotel,52 min to airport,234,4.5
+Hotel Prado Madrid,MAD,Business Hotel,25 min to airport,156,4.2
+Gran Hotel Inglés,MAD,Luxury Hotel,30 min to airport,289,4.6
+Hotel Villa Real,MAD,Historic Hotel,28 min to airport,234,4.4
+NH Collection Madrid Suecia,MAD,Business Hotel,32 min to airport,178,4.3
+Hotel Atlántico,MAD,Classic Hotel,35 min to airport,98,3.9
+The Westin Palace Madrid,MAD,Luxury Hotel,27 min to airport,345,4.7
+Hostal La Macarena,MAD,Hostel,40 min to airport,35,3.8
+Hotel Liabeny,MAD,Business Hotel,33 min to airport,123,4.1
+Only YOU Boutique Hotel Madrid,MAD,Boutique Hotel,29 min to airport,198,4.5
+Hotel Ritz Madrid,MAD,Luxury Hotel,26 min to airport,567,4.8
+Hotel Petit Palace Plaza Mayor,MAD,Boutique Hotel,38 min to airport,145,4.2
+Hotel Opera,MAD,Budget Hotel,36 min to airport,89,3.9
+The Plaza Hotel,NYC,Luxury Hotel,45 min to airport,598,4.7
+Pod Hotels Times Square,NYC,Modern Hotel,50 min to airport,189,4.2
+The High Line Hotel,NYC,Boutique Hotel,55 min to airport,234,4.4
+HI New York City Hostel,NYC,Hostel,60 min to airport,45,3.9
+The Standard High Line,NYC,Boutique Hotel,52 min to airport,289,4.5
+Hotel Pennsylvania,NYC,Classic Hotel,48 min to airport,134,3.8
+The Greenwich Hotel,NYC,Luxury Hotel,58 min to airport,456,4.8
+YMCA,NYC,Budget Accommodation,65 min to airport,78,3.6
+1 Hotel Brooklyn Bridge,NYC,Eco Hotel,40 min to airport,345,4.6
+The Jane Hotel,NYC,Historic Hotel,62 min to airport,98,4.0
+citizenM New York Bowery,NYC,Modern Hotel,47 min to airport,198,4.3
+The Ludlow Hotel,NYC,Boutique Hotel,44 min to airport,267,4.5
+Fontainebleau Miami Beach,MIA,Resort,35 min to airport,345,4.6
+The Setai Miami Beach,MIA,Luxury Resort,32 min to airport,567,4.8
+South Beach Hostel,MIA,Hostel,25 min to airport,38,3.9
+Hotel Beaux Arts Miami,MIA,Boutique Hotel,20 min to airport,189,4.3
+InterContinental Miami,MIA,Business Hotel,15 min to airport,234,4.4
+The Mutiny Hotel,MIA,Boutique Hotel,22 min to airport,156,4.1
+DoubleTree by Hilton Grand Hotel Biscayne Bay,MIA,Business Hotel,18 min to airport,178,4.2
+Edition Miami Beach,MIA,Luxury Hotel,30 min to airport,445,4.7
+Hotel Colonnade Coral Gables,MIA,Classic Hotel,28 min to airport,198,4.3
+Generator Miami,MIA,Modern Hostel,27 min to airport,56,4.0
+Hotel Victor,MIA,Art Deco Hotel,29 min to airport,267,4.4
+Freehand Miami,MIA,Hostel,26 min to airport,67,4.1
+Bristol Panama Hotel,PAN,Business Hotel,30 min to airport,145,4.2
+The Santa Maria Hotel & Golf Resort,PAN,Resort,45 min to airport,289,4.5
+Global Hotel Panama,PAN,Business Hotel,25 min to airport,123,4.0
+Luna's Castle Hostel,PAN,Hostel,35 min to airport,28,3.9
+Hotel Coral Suites,PAN,Business Hotel,32 min to airport,167,4.1
+Tryp by Wyndham Panama Centro,PAN,Modern Hotel,28 min to airport,134,4.2
+Hotel El Panama,PAN,Classic Hotel,38 min to airport,178,4.3
+Magnolia Inn,PAN,Boutique Hotel,42 min to airport,98,3.8
+Hotel Centroamericano,PAN,Budget Hotel,40 min to airport,67,3.7
+Waldorf Astoria Panama,PAN,Luxury Hotel,33 min to airport,398,4.7
+Tantalo Hotel,PAN,Boutique Hotel,36 min to airport,156,4.4
+Aloft Panama,PAN,Modern Hotel,29 min to airport,189,4.3

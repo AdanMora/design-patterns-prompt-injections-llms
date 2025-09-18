@@ -1,0 +1,73 @@
+Name,City,Type,Duration,Price,Rating
+National Theater Tour,SJO,Cultural Tour,2 hours,25,4.3
+Manuel Antonio National Park,SJO,Nature Tour,8 hours,15,4.7
+Arenal Volcano Hike,SJO,Adventure Tour,6 hours,75,4.5
+Coffee Plantation Tour,SJO,Cultural Tour,4 hours,45,4.4
+San José Central Market,SJO,Market Visit,2 hours,5,4.0
+Pre-Columbian Gold Museum,SJO,Museum,3 hours,15,4.2
+Cartago Basilica Visit,SJO,Historic Landmark,3 hours,10,4.1
+Jade Museum,SJO,Museum,2 hours,12,4.0
+La Sabana Metropolitan Park,SJO,Park Visit,3 hours,0,3.9
+Barrio Escalante Food Tour,SJO,Food Tour,4 hours,65,4.6
+Cloud Forest Canopy Tour,SJO,Adventure Tour,5 hours,85,4.8
+Doka Estate Coffee Tour,SJO,Cultural Tour,3 hours,35,4.3
+Templo Mayor Museum,MEX,Museum,3 hours,5,4.5
+Frida Kahlo Museum,MEX,Museum,2 hours,12,4.6
+Teotihuacan Pyramids Tour,MEX,Historic Landmark,8 hours,45,4.8
+Xochimilco Floating Gardens,MEX,Cultural Tour,4 hours,20,4.4
+National Palace Tour,MEX,Historic Landmark,2 hours,8,4.2
+Chapultepec Castle,MEX,Historic Landmark,3 hours,6,4.3
+Lucha Libre Wrestling Show,MEX,Entertainment,3 hours,35,4.7
+Coyoacan Walking Tour,MEX,Cultural Tour,3 hours,25,4.1
+Anthropology Museum,MEX,Museum,4 hours,5,4.9
+Roma Norte Food Tour,MEX,Food Tour,4 hours,55,4.5
+Mercado de San Juan,MEX,Market Visit,2 hours,10,4.0
+Tequila and Mezcal Tasting,MEX,Cultural Experience,2 hours,40,4.6
+Prado Museum,MAD,Museum,4 hours,15,4.8
+Royal Palace of Madrid,MAD,Historic Landmark,3 hours,12,4.7
+Retiro Park,MAD,Park Visit,2 hours,0,4.4
+Reina Sofia Museum,MAD,Museum,3 hours,12,4.6
+Flamenco Show in Tablao,MAD,Entertainment,2 hours,45,4.5
+Santiago Bernabeu Stadium Tour,MAD,Modern Landmark,2 hours,25,4.3
+Tapas Walking Tour,MAD,Food Tour,4 hours,65,4.6
+Toledo Day Trip,MAD,Historic Tour,8 hours,75,4.7
+Thyssen-Bornemisza Museum,MAD,Museum,3 hours,13,4.5
+Mercado de San Miguel,MAD,Market Visit,2 hours,8,4.2
+Gran Via Walking Tour,MAD,Cultural Tour,2 hours,20,4.1
+Segovia Day Trip,MAD,Historic Tour,8 hours,85,4.8
+Statue of Liberty & Ellis Island,NYC,Historic Landmark,5 hours,24,4.6
+Empire State Building,NYC,Modern Landmark,2 hours,37,4.4
+Central Park Tour,NYC,Park Visit,3 hours,15,4.3
+Broadway Show,NYC,Entertainment,3 hours,120,4.8
+9/11 Memorial & Museum,NYC,Museum,3 hours,26,4.7
+Brooklyn Bridge Walk,NYC,Modern Landmark,2 hours,0,4.5
+Metropolitan Museum of Art,NYC,Museum,4 hours,25,4.9
+Times Square Walking Tour,NYC,Cultural Tour,2 hours,25,4.0
+High Line Park,NYC,Modern Landmark,2 hours,0,4.6
+Food Tour in Chinatown,NYC,Food Tour,3 hours,75,4.4
+One World Observatory,NYC,Modern Landmark,2 hours,39,4.3
+Yankee Stadium Tour,NYC,Modern Landmark,1 hour,25,4.2
+Art Deco Historic District,MIA,Historic Landmark,3 hours,20,4.4
+Wynwood Walls Street Art,MIA,Modern Landmark,2 hours,0,4.6
+Everglades National Park,MIA,Nature Tour,8 hours,35,4.7
+Vizcaya Museum & Gardens,MIA,Museum,3 hours,22,4.5
+South Beach Walking Tour,MIA,Cultural Tour,2 hours,25,4.2
+Little Havana Food Tour,MIA,Food Tour,4 hours,65,4.6
+Bayside Marketplace,MIA,Market Visit,2 hours,5,4.0
+Miami Seaquarium,MIA,Entertainment,4 hours,48,4.1
+Key Biscayne Beach Day,MIA,Beach Visit,6 hours,10,4.3
+Design District Art Tour,MIA,Cultural Tour,3 hours,30,4.4
+Sunset Cruise Biscayne Bay,MIA,Tour,2 hours,45,4.5
+Miami Beach Bike Tour,MIA,Adventure Tour,3 hours,35,4.2
+Panama Canal Miraflores Locks,PAN,Historic Landmark,3 hours,15,4.6
+Casco Viejo Walking Tour,PAN,Historic Landmark,3 hours,20,4.4
+Gamboa Rainforest Resort,PAN,Nature Tour,8 hours,85,4.7
+Metropolitan Cathedral,PAN,Historic Landmark,1 hour,5,4.2
+Biomuseo Biodiversity Museum,PAN,Museum,3 hours,22,4.5
+Soberania National Park,PAN,Nature Tour,6 hours,25,4.6
+Amador Causeway,PAN,Modern Landmark,2 hours,0,4.1
+Fish Market Tour,PAN,Cultural Tour,2 hours,15,4.0
+Ancon Hill Hike,PAN,Adventure Tour,3 hours,10,4.3
+Panama Viejo Ruins,PAN,Historic Landmark,2 hours,8,4.1
+Embera Village Tour,PAN,Cultural Tour,8 hours,95,4.8
+Multiplaza Pacific Mall,PAN,Modern Landmark,3 hours,0,3.8
